@@ -1,7 +1,7 @@
 {
   "name": "tjbotczlib",
   "description": "Node.js library for writing TJBotCZ recipes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "TJBotCZ <tjbotcz@gmail.com>",
   "bugs": {
     "url": "https://github.com/tjbotcz/tjbotczlib/issues"
@@ -28,7 +28,8 @@
   },
   "homepage": "https://github.com/tjbotcz/tjbotczlib",
   "keywords": [
-    "tjbotcz", "tjbot"
+    "tjbotcz",
+    "tjbot"
   ],
   "license": "Apache-2.0",
   "main": "index.js",
