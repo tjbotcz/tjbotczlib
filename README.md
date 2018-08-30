@@ -6,3 +6,4 @@ TJBotCZ uses its own library that is already registered in npm. It builds on ori
 2. When using Watson Assisstant service we manage the context object that is being sent to the service.
 3. Listen function - we support possibility to train your own model of recognizing english words.
 4. We have face detection functionality of Visual Recognition service implemented (TJBotCZ version).
+5. We support both custom and built-in classifier IDs (so you can train your own model for visual recognition).
