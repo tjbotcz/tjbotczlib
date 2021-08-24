@@ -1,28 +1,58 @@
 {
-  "name": "tjbotczlib",
-  "description": "Node.js library for writing TJBotCZ recipes",
-  "version": "1.1.0",
-  "author": "TJBotCZ <tjbotcz@gmail.com>",
+  "_from": "tjbotczlib@latest",
+  "_id": "tjbotczlib@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-CSDOH/HmXSXUb+L+kFX05CLSh7KG0mNIwRQTV0Io4QP3mWqMHhnLL0g2pFER0tAulxho/02dcFYQnJuPYE7i5g==",
+  "_location": "/tjbotczlib",
+  "_phantomChildren": {
+    "nan": "2.14.0"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tjbotczlib@latest",
+    "name": "tjbotczlib",
+    "escapedName": "tjbotczlib",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tjbotczlib/-/tjbotczlib-1.0.5.tgz",
+  "_shasum": "340e9a784fb97ab6f65e532c3ecfe2fac5df598f",
+  "_spec": "tjbotczlib@latest",
+  "_where": "/home/pi/Desktop/tjbotcz_lite",
+  "author": {
+    "name": "TJBotCZ",
+    "email": "tjbotcz@gmail.com"
+  },
   "bugs": {
     "url": "https://github.com/tjbotcz/tjbotczlib/issues"
   },
+  "bundleDependencies": false,
   "dependencies": {
     "assert": "^1.4.1",
+    "asyncawait": "^1.0.6",
     "color-model": "^0.2.2",
     "colornames": "^1.1.1",
     "fifo": "^2.3.0",
     "mic": "^2.1.2",
     "node-raspistill": "^0.0.11",
     "object.pick": "^1.2.0",
+    "pigpio": "^1.1.2",
+    "rpi-ws281x-native": "^0.8.1",
     "semaphore": "^1.0.5",
     "sleep": "^5.0.0",
     "sound-player": "^1.0.4",
     "temp": "^0.8.3",
+    "watson-developer-cloud": "^3.4.5",
     "ibm-watson": "^6.0.3",
-    "winston": "^2.3.1",
-    "pigpio": "^3.3.1",
-    "got": "^11.8.2"
+    "winston": "^2.3.1"
   },
+  "deprecated": false,
+  "description": "Node.js library for writing TJBotCZ recipes",
   "engines": {
     "node": ">=4.2.4"
   },
@@ -33,11 +63,13 @@
   ],
   "license": "Apache-2.0",
   "main": "index.js",
+  "name": "tjbotczlib",
   "optionalDependencies": {
     "rpi-ws281x-native": "^0.8.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tjbotcz/tjbotczlib.git"
-  }
+    "url": "git+https://github.com/tjbotcz/tjbotczlib.git"
+  },
+  "version": "1.0.5"
 }
