@@ -9,7 +9,7 @@
   
   "dependencies": {
     "assert": "^1.4.1",
-    "asyncawait": "^1.0.6",
+    "asyncawait": "^3.0.0",
     "color-model": "^0.2.2",
     "colornames": "^1.1.1",
     "fifo": "^2.3.0",
