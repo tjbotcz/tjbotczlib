@@ -42,7 +42,7 @@
     "node-raspistill": "^0.0.11",
     "object.pick": "^1.2.0",
     "pigpio": "^1.1.2",
-    "rpi-ws281x-native": "^1.0.3",
+    "rpi-ws281x-native": "^0.10.1",
     "semaphore": "^1.0.5",
     "sleep": "^5.0.0",
     "sound-player": "^1.0.4",
