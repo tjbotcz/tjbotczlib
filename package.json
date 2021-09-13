@@ -1,37 +1,12 @@
 {
-  "_from": "tjbotczlib@latest",
-  "_id": "tjbotczlib@1.1.2",
-  "_inBundle": false,
-  "_integrity": "sha512-CSDOH/HmXSXUb+L+kFX05CLSh7KG0mNIwRQTV0Io4QP3mWqMHhnLL0g2pFER0tAulxho/02dcFYQnJuPYE7i5g==",
-  "_location": "/tjbotczlib",
-  "_phantomChildren": {
-    "nan": "2.14.0"
-  },
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "tjbotczlib@latest",
-    "name": "tjbotczlib",
-    "escapedName": "tjbotczlib",
-    "rawSpec": "latest",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/tjbotczlib/-/tjbotczlib-1.0.5.tgz",
-  "_shasum": "340e9a784fb97ab6f65e532c3ecfe2fac5df598f",
-  "_spec": "tjbotczlib@latest",
-  "_where": "/home/pi/Desktop/tjbotcz_lite",
-  "author": {
-    "name": "TJBotCZ",
-    "email": "tjbotcz@gmail.com"
-  },
+  "name": "tjbotczlib",
+  "description": "Node.js library for writing TJBotCZ recipes",
+  "version": "1.1.2",
+  "author": "TJBotCZ <tjbotcz@gmail.com>",
   "bugs": {
     "url": "https://github.com/tjbotcz/tjbotczlib/issues"
   },
-  "bundleDependencies": false,
+  
   "dependencies": {
     "assert": "^1.4.1",
     "asyncawait": "^1.0.6",
@@ -51,7 +26,7 @@
     "ibm-watson": "^6.0.3",
     "winston": "^2.3.1"
   },
-  "deprecated": false,
+  
   "description": "Node.js library for writing TJBotCZ recipes",
   "engines": {
     "node": ">=4.2.4"
