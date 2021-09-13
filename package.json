@@ -44,7 +44,7 @@
     "pigpio": "^1.1.2",
     "rpi-ws281x-native": "^0.10.1",
     "semaphore": "^1.0.5",
-    "sleep": "^5.0.0",
+    "sleep": "^6.3.0",
     "sound-player": "^1.0.4",
     "temp": "^0.8.3",
     "watson-developer-cloud": "^3.4.5",
