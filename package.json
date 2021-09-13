@@ -1,6 +1,6 @@
 {
   "_from": "tjbotczlib@latest",
-  "_id": "tjbotczlib@1.0.5",
+  "_id": "tjbotczlib@1.1.1",
   "_inBundle": false,
   "_integrity": "sha512-CSDOH/HmXSXUb+L+kFX05CLSh7KG0mNIwRQTV0Io4QP3mWqMHhnLL0g2pFER0tAulxho/02dcFYQnJuPYE7i5g==",
   "_location": "/tjbotczlib",
@@ -42,7 +42,7 @@
     "node-raspistill": "^0.0.11",
     "object.pick": "^1.2.0",
     "pigpio": "^1.1.2",
-    "rpi-ws281x-native": "^0.8.1",
+    "rpi-ws281x-native": "^1.0.3",
     "semaphore": "^1.0.5",
     "sleep": "^5.0.0",
     "sound-player": "^1.0.4",
@@ -65,11 +65,11 @@
   "main": "index.js",
   "name": "tjbotczlib",
   "optionalDependencies": {
-    "rpi-ws281x-native": "^0.8.1"
+    "rpi-ws281x-native": "^1.0.3"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tjbotcz/tjbotczlib.git"
   },
-  "version": "1.0.5"
+  "version": "1.1.1"
 }
