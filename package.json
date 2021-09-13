@@ -1,6 +1,6 @@
 {
   "_from": "tjbotczlib@latest",
-  "_id": "tjbotczlib@1.1.1",
+  "_id": "tjbotczlib@1.1.2",
   "_inBundle": false,
   "_integrity": "sha512-CSDOH/HmXSXUb+L+kFX05CLSh7KG0mNIwRQTV0Io4QP3mWqMHhnLL0g2pFER0tAulxho/02dcFYQnJuPYE7i5g==",
   "_location": "/tjbotczlib",
@@ -71,5 +71,5 @@
     "type": "git",
     "url": "git+https://github.com/tjbotcz/tjbotczlib.git"
   },
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
